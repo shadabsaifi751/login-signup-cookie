@@ -24,4 +24,7 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    position: absolute;
+    height: 100%;
+    width: 100%;
 }
